@@ -1,2 +1,2 @@
-# PROJECT NAME
-PROJECT DESCRIPTION
+# sysinfo panel
+sysinfo output for panel (e.g. Xfce) usage
